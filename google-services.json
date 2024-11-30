@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327521903491",
+    "project_id": "wavetoget-1540831656838",
+    "storage_bucket": "wavetoget-1540831656838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327521903491:android:86ae96d0b921ad50340cb6",
+        "android_client_info": {
+          "package_name": "com.wavetoget.wavetoget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327521903491-5h3q16g0mgk08onr1pfl0jeb9obkl3nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6WCQLofb-z6vlavPB6V9qpXNpYToKXQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327521903491-5h3q16g0mgk08onr1pfl0jeb9obkl3nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
